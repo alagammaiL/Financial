@@ -1,0 +1,24 @@
+.errorContainer {
+  width: 100vw;
+  height: 100vh;
+
+  background-color: #246475;
+
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.notFoundText {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 2px #ff2e90;
+}
+.alignmentFix {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  width: fit-content;
+  margin: 0 auto;
+  text-align: center;
+}

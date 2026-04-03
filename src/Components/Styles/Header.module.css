@@ -1,0 +1,19 @@
+.headerflexContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem;
+}
+.titleSize {
+  text-transform: capitalize;
+  color: #233d65;
+  font-size: 2.3rem;
+  font-weight: 500;
+}
+.toggleflexContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+}

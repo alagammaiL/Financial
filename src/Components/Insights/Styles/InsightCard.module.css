@@ -1,0 +1,15 @@
+.insightCardContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 50%;
+  background:
+    linear-gradient(to right, rgba(69, 127, 242, 0.7), rgba(55, 89, 169, 0.7)),
+    url("../../../assets/growthstock.jpeg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 7px;
+  padding: 3rem;
+  margin-right: auto;
+  margin-left: auto;
+}
